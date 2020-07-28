@@ -1,2 +1,2 @@
 # josephmanytomanytest
-laravel many to many project
+User can get multiple entrees and each entree can belong to many users.
